@@ -1,8 +1,8 @@
-# Mnist (Flask) webapp demo
+# Mnist  webapp demo (Flask)
 
 **[Heroku live web-app][heroku-app-url]**
 
-**[Detail blog](https://sumit-kothari.github.io/flask-deployment/)** explain the code.
+**[Detail blog](https://sumit-kothari.github.io/flask-deployment/)** explaining the code.
 
 **Table of Contents**
 - [Pre-request][pre-request]
