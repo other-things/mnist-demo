@@ -49,7 +49,7 @@ python app.py
 
 # <a name="code_structure"></a>Code Structure
 
-![_code_structure.png](https://other-things.github.io/images/code_structure.png)
+![_code_structure.png](https://sumit-kothari.github.io/images/code_structure.png)
 
 
 
